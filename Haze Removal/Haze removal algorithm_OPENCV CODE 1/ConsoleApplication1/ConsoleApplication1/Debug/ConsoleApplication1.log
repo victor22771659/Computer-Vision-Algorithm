@@ -1,0 +1,11 @@
+﻿已經開始建置於 2016/1/28 下午 08:20:21。
+     1>節點 2 (Build 目標) 上的專案 "E:\Desktop\Haze removal algorithm_OPENCV CODE 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\desktop\haze removal algorithm_opencv code 1\consoleapplication1\consoleapplication1\source.cpp(1): fatal error C1083: 無法開啟包含檔案: 'opencv2/core/core.hpp': No such file or directory
+     1>專案 "E:\Desktop\Haze removal algorithm_OPENCV CODE 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.27
